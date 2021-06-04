@@ -1,0 +1,11 @@
+NChannels,3
+DIC,0
+Green,1
+Red,2
+BackGround,0
+Start,140
+End,300
+Timelapse(min),10
+period(min),120
+Time Experiment(hours),72
+function type,1
